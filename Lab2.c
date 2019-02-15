@@ -1,3 +1,6 @@
+/*
+This function will use a formula that calculates the amount due and interest charges for following months.
+*/
 #include <stdio.h>   // Imports the content of the standard library
 #include <math.h>   // Imports the content of the math library 
 
