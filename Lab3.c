@@ -1,3 +1,7 @@
+/*
+This Lab will budget your coffee expenses for a month for coffee shops using coupon loyalty programs.
+*/
+
 #include <stdio.h>
 #include <math.h>
 // Imports the content of the standard library and the math library
