@@ -1,3 +1,7 @@
+/*
+This project will utilize Reimann Sum to calculate area under a function (integral).
+*/
+
 // Includes standard, math, and boolean libraries
 #include <stdio.h>
 #include <math.h>
