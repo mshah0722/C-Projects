@@ -146,5 +146,5 @@ void winLoss(void)
 
 int main(void)
 {
-    winLoss;
+    winLoss();
 }
