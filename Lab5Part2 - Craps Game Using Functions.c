@@ -146,9 +146,5 @@ void winLoss(void)
 
 int main(void)
 {
-    int day = 0; 
-    int month = 0;
-    int year = 0;
-    inputDate(&day, &month, &year);
-    calculateDay(day, month, year);
+    winLoss;
 }
