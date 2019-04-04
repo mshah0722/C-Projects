@@ -107,5 +107,9 @@ void calculateDay(int day, int month, int year)
 
 int main(void)
 {
-    winLoss();
+    int day = 0; 
+    int month = 0;
+    int year = 0;
+    inputDate(&day, &month, &year);
+    calculateDay(day, month, year);
 }
