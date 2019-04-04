@@ -8,7 +8,7 @@
 
 int main(void)   //Program execution starts in the main function
 {
-	double firstInputNumber, secondInputNumber;   //Defines the two input numbers
+    double firstInputNumber, secondInputNumber;   //Defines the two input numbers
     double outputProduct, outputDifference, outputSumOfSquareRoots;   //Defines the output numbers
     
     printf("Enter two positive numbers: ");   //Present the message to the user
